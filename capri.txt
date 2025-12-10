@@ -1,5 +1,7 @@
+repo init -u https://github.com/LineageOS/android.git -b lineage-23.0 --git-lfs
 git clone https://github.com/LineageOS/android_device_motorola_capri device/motorola/capri -b lineage-23.0
 git clone https://github.com/LineageOS/android_device_motorola_sm6225-common device/motorola/sm6225-common -b lineage-23.0
 git clone https://github.com/LineageOS/android_kernel_motorola_sm6225 kernel/motorola/sm6225 -b lineage-23.0
 git clone https://github.com/TheMuppets/proprietary_vendor_motorola_capri vendor/motorola/capri -b lineage-23.0
 git clone https://github.com/TheMuppets/proprietary_vendor_motorola_sm6225-common vendor/motorola/sm6225-common -b lineage-23.0
+
